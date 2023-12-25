@@ -23,7 +23,7 @@ jobs:
         uses: docker/build-push-action@9f6f8c940b91232557f8699b21341a08624a8dce
         with:
           push: true
-          tags: lorwp/caddy-cloudflaredns:2.7.6
+          tags: ghcr.io/lorwp/caddy-cloudflaredns:2.7.6
 
 
 
